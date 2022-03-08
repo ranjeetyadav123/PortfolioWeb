@@ -64,7 +64,7 @@ export default function () {
                             {""}
                             Hire Me {" "}
                         </button>
-                        <a href='src\Data\Resume-Ranjeet-Yadav.pdf' download='Ranjeet Yadav.pdf'>
+                        <a href='../Data/Home/Resume-Ranjeet-Yadav' download='Ranjeet Yadav.pdf'>
                         <button className='btn highlighted-btn'>Get Resume</button>
                         </a>                        
                    </div>
