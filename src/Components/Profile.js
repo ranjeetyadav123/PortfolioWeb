@@ -61,8 +61,9 @@ export default function () {
                     </div>
                     <div className='profile-options'>
                         <button className='btn primary-btn'>
+                           <a href='./Contact Me'> 
                             {""}
-                            Hire Me {" "}
+                            Contact Me {" "}
                         </button>
                         <a href='../Data/Home/Resume-Ranjeet-Yadav' download='Ranjeet Yadav.pdf'>
                         <button className='btn highlighted-btn'>Get Resume</button>
